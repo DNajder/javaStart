@@ -1,0 +1,16 @@
+package day4;
+
+public class ForsExample2 {
+    public static void main(String[] args) {
+        printNumbersInTree(9);
+
+    }
+    public  static  void printNumbersInTree( int hight){//todo *tilt me in another direction
+        for (int i = 0 ; i < hight ; i++){// ilość wierszy
+            for (int j = 0; j<=i ; j++){  // ilość kolumn
+                System.out.print(i +1);
+            }
+            System.out.println();
+        }
+    }
+}
