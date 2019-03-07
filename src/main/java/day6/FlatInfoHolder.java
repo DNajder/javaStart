@@ -1,4 +1,4 @@
-package dey6;
+package day6;
 
 public interface FlatInfoHolder {
 

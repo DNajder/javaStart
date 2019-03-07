@@ -1,4 +1,4 @@
-package dey1;
+package day1;
 
 import java.util.Date;
 import java.util.stream.IntStream;

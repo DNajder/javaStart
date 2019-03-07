@@ -1,4 +1,4 @@
-package dey1;
+package day1;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;
@@ -30,6 +30,5 @@ public class BigIntigerBigDecimal {
         BigDecimal yyyy = BigDecimal.valueOf(y);
         BigDecimal zzzz = xxxx.subtract(yyyy);
         System.out.println(zzzz);
-
     }
 }

@@ -1,4 +1,4 @@
-package dey1;
+package day1;
 
 public class MinMaxValues {
     public static void main(String[] args) {
