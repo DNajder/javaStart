@@ -1,9 +1,9 @@
 package day7;
 
-import dey6.Pensoner;
-import dey6.Person;
-import dey6.Student;
-import dey6.Worker;
+import day6.Pensoner;
+import day6.Person;
+import day6.Student;
+import day6.Worker;
 
 import java.math.BigDecimal;
 import java.util.*;
